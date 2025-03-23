@@ -420,7 +420,7 @@ border: 1px solid white;
     color: #0056b3;
 }
 .info-row > div:not(.info-label) {
-    font-size: 23px; /* Adjust as needed */
-    font-weight: bold;
+    font-size: 20px; /* Adjust as needed */
+    font-weight: 600;
   }
   
